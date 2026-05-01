@@ -1,0 +1,25 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# React / Node
+frontend/node_modules/
+frontend/build/
+
+# Spark
+spark/
+*.log
+
+# Database
+*.sqlite3
+db.sqlite3
+
+# Data files (souvent trop lourds)
+data/
+
+# OS
+.DS_Store
+Thumbs.db
